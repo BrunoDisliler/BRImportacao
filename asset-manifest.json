@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BRImportacao/static/css/main.fd6a6777.css",
+    "main.js": "/BRImportacao/static/js/main.5c05fcaa.js",
+    "static/js/787.0c1a86ef.chunk.js": "/BRImportacao/static/js/787.0c1a86ef.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/BRImportacao/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.jpg": "/BRImportacao/static/media/logo.7cee9c1502bbf0448d8b.jpg",
+    "index.html": "/BRImportacao/index.html",
+    "main.fd6a6777.css.map": "/BRImportacao/static/css/main.fd6a6777.css.map",
+    "main.5c05fcaa.js.map": "/BRImportacao/static/js/main.5c05fcaa.js.map",
+    "787.0c1a86ef.chunk.js.map": "/BRImportacao/static/js/787.0c1a86ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6a6777.css",
+    "static/js/main.5c05fcaa.js"
+  ]
+}
