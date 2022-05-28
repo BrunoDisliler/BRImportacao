@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BRImportacao/static/css/main.fd6a6777.css",
-    "main.js": "/BRImportacao/static/js/main.92c810ca.js",
+    "main.js": "/BRImportacao/static/js/main.7892cb57.js",
     "static/js/787.0c1a86ef.chunk.js": "/BRImportacao/static/js/787.0c1a86ef.chunk.js",
     "static/media/img2.jpg": "/BRImportacao/static/media/img2.08c129cada6348074e3e.jpg",
     "static/media/img4.jpg": "/BRImportacao/static/media/img4.80fa1e526d76373a2f47.jpg",
@@ -12,8 +12,9 @@
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/iphone11.png": "/BRImportacao/static/media/iphone11.8a317cd10597763ccbf2.png",
     "static/media/iphone12.png": "/BRImportacao/static/media/iphone12.e9f1772f910bf5ec67f2.png",
+    "static/media/contact.png": "/BRImportacao/static/media/contact.96c63c3c1d7b93fc0aec.png",
     "static/media/iphone12mini.png": "/BRImportacao/static/media/iphone12mini.bf22328378d81213bfa1.png",
-    "static/media/iphone11promax.png": "/BRImportacao/static/media/iphone11promax.5ee7c0bb8f4069cd825a.png",
+    "static/media/iphone11pro.png": "/BRImportacao/static/media/iphone11pro.61a8e5932b7fd041dd73.png",
     "static/media/fontawesome-webfont.eot": "/BRImportacao/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
@@ -23,11 +24,11 @@
     "static/media/logo.jpg": "/BRImportacao/static/media/logo.7cee9c1502bbf0448d8b.jpg",
     "index.html": "/BRImportacao/index.html",
     "main.fd6a6777.css.map": "/BRImportacao/static/css/main.fd6a6777.css.map",
-    "main.92c810ca.js.map": "/BRImportacao/static/js/main.92c810ca.js.map",
+    "main.7892cb57.js.map": "/BRImportacao/static/js/main.7892cb57.js.map",
     "787.0c1a86ef.chunk.js.map": "/BRImportacao/static/js/787.0c1a86ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6a6777.css",
-    "static/js/main.92c810ca.js"
+    "static/js/main.7892cb57.js"
   ]
 }
