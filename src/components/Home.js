@@ -4,6 +4,7 @@ import img1 from '../assets/images/home/img1.jpg';
 import img2 from '../assets/images/home/img2.jpg';
 import img3 from '../assets/images/home/img3.jpg';
 import img4 from '../assets/images/home/img4.jpg';
+import img5 from '../assets/images/home/img5.jpg';
 
 const Home = () => {
   return (
@@ -40,6 +41,12 @@ const Home = () => {
             data-bs-slide-to="3"
             aria-label="Slide 4"
           ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="4"
+            aria-label="Slide 5"
+          ></button>
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
@@ -69,6 +76,14 @@ const Home = () => {
           <div className="carousel-item">
             <img
               src={img4}
+              className="d-block w-100"
+              alt="IPhone"
+              height="500px"
+            />
+          </div>
+          <div className="carousel-item">
+            <img
+              src={img5}
               className="d-block w-100"
               alt="IPhone"
               height="500px"

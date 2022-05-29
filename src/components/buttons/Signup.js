@@ -6,11 +6,11 @@ const Signup = () => {
       {/* <!-- Button trigger modal --> */}
       <button
         type="button"
-        className="btn btn-outline-primary ms-2"
+        className="btn ms-2"
         data-bs-toggle="modal"
         data-bs-target="#signupModal"
       >
-        <span className="fa fa-user-plus me-1"></span> Registrar
+        <span className="fa fa-3x fa-user-plus me-1" style={{color:'#445251'}} ></span> 
       </button>
 
       {/* <!-- Modal --> */}
@@ -70,6 +70,16 @@ const Signup = () => {
                 <div className="mb-3">
                   <label htmlFor="exampleInputPassword1" className="form-label">
                     Senha
+                  </label>
+                  <input
+                    type="password"
+                    className="form-control"
+                    id="exampleInputPassword1"
+                  />
+                </div>
+                <div className="mb-3">
+                  <label htmlFor="exampleInputPassword1" className="form-label">
+                    Repetir Senha
                   </label>
                   <input
                     type="password"

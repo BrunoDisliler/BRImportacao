@@ -36,7 +36,7 @@ const ProductDetail = () => {
             <h1 className="display-5 fw-bold">{product.title}</h1>
             <hr />
             <h2 className="my-4">R${product.price}</h2>
-            <p className="lead">{product.desc}</p>
+            <p className="lead product-detail">{product.desc}</p>
             <button
               onClick={() => handleCart(product)}
               className="btn btn-outline-primary my-5"

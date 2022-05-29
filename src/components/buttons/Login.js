@@ -6,11 +6,11 @@ const Login = () => {
       {/* <!-- Button trigger modal --> */}
       <button
         type="button"
-        className="btn btn-outline-primary ms-auto"
+        className="btn ms-auto"
         data-bs-toggle="modal"
         data-bs-target="#loginModal"
       >
-        <span className="fa fa-sign-in me-1"></span> Login
+        <i className="fa fa-user fa-3x me-1" style={{color:'#445251'}} ></i> 
       </button>
 
       {/* <!-- Modal --> */}

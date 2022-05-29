@@ -9,7 +9,8 @@ const Product = () => {
         <img src={item.img} className="card-img-top" alt={item.title} />
         <div className="card-body text-center">
           <h5 className="card-title">{item.title}</h5>
-          <p className="lead">R${item.price}</p>
+          <h5 className="lead">R${item.price}</h5>
+          <p>Em até 10x</p>
           <NavLink to={`/products/${item.id}`} className="btn btn-outline-primary">
             Comprar
           </NavLink>
@@ -23,7 +24,7 @@ const Product = () => {
       <div className="container py-5">
         <div className="row">
           <div className="col-12 text-center">
-            <h1>Aparelhos</h1>
+            <h1 className="display-2">Aparelhos</h1>
             <hr />
           </div>
         </div>

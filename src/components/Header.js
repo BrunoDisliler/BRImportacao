@@ -25,27 +25,27 @@ const Header = () => {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <NavLink className="nav-link" aria-current="page" to="/">
-                  Início
+                  Início |
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/products">
-                  Aparelhos
+                  Aparelhos |
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/about">
-                  Sobre
+                  Sobre |
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
-                  Contato
+                  Contato |
                 </NavLink>
               </li>
             </ul>
             <NavLink className="navbar-brand mx-auto fw-bold" to="/">
-              <img className="logo" src={logo} width="75px" alt="Logo Importação" />
+              <img className="logo" src={logo} width="80px" alt="Logo Importação" />
             </NavLink>
             <Login />
             <Signup />

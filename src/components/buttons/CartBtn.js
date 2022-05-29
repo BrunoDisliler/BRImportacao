@@ -8,8 +8,8 @@ const CartBtn = () => {
   const state = useSelector((state) => state.addItem);
   return (
     <>
-      <NavLink to="/cart" className="btn btn-outline-primary ms-2">
-        <span className="fa fa-shopping-cart me-1"></span> Carrinho ({state.length})
+      <NavLink to="/cart" className="btn ms-2">
+        <span className="fa fa-3x fa-shopping-cart me-1" style={{color:'#445251'}} ></span> ({state.length})
       </NavLink>
     </>
   );
