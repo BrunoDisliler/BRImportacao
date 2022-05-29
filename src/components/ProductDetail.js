@@ -6,7 +6,7 @@ import { useDispatch } from "react-redux";
 import { addItem, delItem } from "../redux/actions/index";
 
 const ProductDetail = () => {
-  const [cartBtn, setCartBtn] = useState("Add to Cart");
+  const [cartBtn, setCartBtn] = useState("Adicionar ao Carrinho");
   const proid = useParams();
   const proDetail = DATA.filter((x) => x.id == proid.id);
   const product = proDetail[0];
@@ -16,12 +16,12 @@ const ProductDetail = () => {
   const dispatch = useDispatch();
 
   const handleCart = (product) => {
-    if (cartBtn === "Add to Cart") {
+    if (cartBtn === "Adicionar ao Carrinho") {
       dispatch(addItem(product));
       setCartBtn("Remove from Cart");
     } else {
       dispatch(delItem(product));
-      setCartBtn("Add to Cart");
+      setCartBtn("Adicionar ao Carrinho");
     }
   };
 
