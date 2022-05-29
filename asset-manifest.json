@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/BRImportacao/static/css/main.fd6a6777.css",
-    "main.js": "/BRImportacao/static/js/main.fce6d156.js",
+    "main.css": "/BRImportacao/static/css/main.837c527e.css",
+    "main.js": "/BRImportacao/static/js/main.478d2509.js",
     "static/js/787.0c1a86ef.chunk.js": "/BRImportacao/static/js/787.0c1a86ef.chunk.js",
-    "static/media/img2.jpg": "/BRImportacao/static/media/img2.08c129cada6348074e3e.jpg",
-    "static/media/img4.jpg": "/BRImportacao/static/media/img4.80fa1e526d76373a2f47.jpg",
-    "static/media/img3.jpg": "/BRImportacao/static/media/img3.a2ce3e7ed4a65c45d557.jpg",
+    "static/media/img4.jpg": "/BRImportacao/static/media/img4.08c129cada6348074e3e.jpg",
+    "static/media/img5.jpg": "/BRImportacao/static/media/img5.ed2e4b8c0e229f772ccc.jpg",
+    "static/media/img3.jpg": "/BRImportacao/static/media/img3.b4419c66e1baebf5162d.jpg",
+    "static/media/img2.jpg": "/BRImportacao/static/media/img2.2566edff2f64b5b6312b.jpg",
     "static/media/img1.jpg": "/BRImportacao/static/media/img1.aff43e06b85a6d64ae09.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/contact.png": "/BRImportacao/static/media/contact.96c63c3c1d7b93fc0aec.png",
@@ -15,12 +16,12 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/BRImportacao/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/logo.jpg": "/BRImportacao/static/media/logo.7cee9c1502bbf0448d8b.jpg",
     "index.html": "/BRImportacao/index.html",
-    "main.fd6a6777.css.map": "/BRImportacao/static/css/main.fd6a6777.css.map",
-    "main.fce6d156.js.map": "/BRImportacao/static/js/main.fce6d156.js.map",
+    "main.837c527e.css.map": "/BRImportacao/static/css/main.837c527e.css.map",
+    "main.478d2509.js.map": "/BRImportacao/static/js/main.478d2509.js.map",
     "787.0c1a86ef.chunk.js.map": "/BRImportacao/static/js/787.0c1a86ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd6a6777.css",
-    "static/js/main.fce6d156.js"
+    "static/css/main.837c527e.css",
+    "static/js/main.478d2509.js"
   ]
 }
